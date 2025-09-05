@@ -191,7 +191,7 @@
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadodavi\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T12:01:07.872Z",
               "EditorCaption": ""
@@ -374,7 +374,8 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\EntradaController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAqwDYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T17:25:52.339Z"
+              "WhenOpened": "2025-08-13T17:25:52.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -470,7 +471,8 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T17:25:52.323Z"
+              "WhenOpened": "2025-08-13T17:25:52.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
